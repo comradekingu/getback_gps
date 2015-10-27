@@ -3,12 +3,13 @@ GetBack GPS for Android
 
 [![GetBack GPS](http://img.shields.io/badge/release-v0.4.1-blue.svg)](https://f-droid.org/repository/browse/?fdid=com.github.ruleant.getback_gps)
 [![Build Status](https://travis-ci.org/ruleant/getback_gps.svg?branch=master)](https://travis-ci.org/ruleant/getback_gps)
+[![Codacy Badge](https://api.codacy.com/project/badge/0040e146618e41ac9c39d04c7b1a3fef)](https://www.codacy.com/app/ruleant/getback_gps)
 [![Coverity Scan Build Status](https://scan.coverity.com/projects/2277/badge.svg)](https://scan.coverity.com/projects/2277)
 [![Coverage Status](https://coveralls.io/repos/ruleant/getback_gps/badge.png?branch=master)](https://coveralls.io/r/ruleant/getback_gps?branch=master)
 [![Translation status](http://hosted.weblate.org/widgets/getback_gps-shields-badge.png)](http://hosted.weblate.org/engage/getback_gps/?utm_source=widget)
 [![Stack Share](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](http://stackshare.io/ruleant/getback-gps)
 
-[![Buildtime trend](https://buildtimetrend.herokuapp.com/badge/ruleant/getback_gps/latest)](http://ruleant.github.io/getback_gps/buildtime-trend/)
+[![Buildtime trend](https://buildtimetrend.herokuapp.com/badge/ruleanCrt/getback_gps/latest)](http://ruleant.github.io/getback_gps/buildtime-trend/)
 [![Total builds](https://buildtimetrend.herokuapp.com/badge/ruleant/getback_gps/builds/month)](http://ruleant.github.io/getback_gps/buildtime-trend/)
 [![Passed build jobs](https://buildtimetrend.herokuapp.com/badge/ruleant/getback_gps/passed/month)](http://ruleant.github.io/getback_gps/buildtime-trend/)
 
@@ -89,6 +90,11 @@ Third party material
     - version : v1.8.1
     - website : https://github.com/keyboardsurfer/Crouton
     - license : Apache 2.0
+
+Credits
+-------
+
+Getback GPS for Android was made possible by many contributers and sponsors, see [Credits](https://github.com/ruleant/getback_gps/wiki/Credits).
 
 License
 -------
